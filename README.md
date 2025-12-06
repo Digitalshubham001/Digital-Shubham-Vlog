@@ -8,7 +8,7 @@ Today, I am sharing insights on how technology is transforming the real estate b
 ## Today's Update – 06/12/2025
 
 ### 1. Virtual Tours and 3D Walkthroughs
-Most homebuyers now explore properties online before visiting in person.  
+Most homebuyers now explore properties online before visiting in person..  
 3D walkthroughs help buyers:
 
 - Understand interior layouts  
